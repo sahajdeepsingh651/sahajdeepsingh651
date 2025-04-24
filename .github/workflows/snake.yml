@@ -19,8 +19,8 @@ jobs:
           github_user_name: sahajdeepsingh651
           outputs: |
              dist/github-contribution-grid-snake-light.svg?palette=github-light
-          color_snake: '#0366d6'
-          color_dots: '#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127'
+          # color_snake: '#0366d6'
+          # color_dots: '#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127'
 
       - name: Generate dark snake
         uses: Platane/snk@v3
