@@ -34,4 +34,11 @@ I’m always open to collaborating on exciting projects, discussing entrepreneur
 - LinkedIn: [linkedin.com/in/sahajdeep-singh](https://www.linkedin.com/in/sahajdeep-singh-46817b260/)
 - Email: sahajdeepsingh100@gmail.com
 
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahajdeepsingh651/sahajdeepsingh651/output/github-contribution-grid-snake-light.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahajdeepsingh651/sahajdeepsingh651/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sahajdeepsingh651/sahajdeepsingh651/output/github-contribution-grid-snake-light.svg" />
+</picture>
+
+
 Thanks for stopping by! 🚀
