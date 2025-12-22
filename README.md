@@ -10,9 +10,6 @@ Welcome to my GitHub profile! I’m a **Machine Learning Engineer**, **Software 
 - **Tools & Platforms**: Git, Docker, Kubernetes, Google Colab, AWS, GCP, RabbitMQ, Redis
 
 
-💼 **Entrepreneurship**:
-I’m the founder of **[The Startup Company](https://www.thestartupcompany.in/)**, where we help early-stage founders validate their ideas, craft business plans, and acquire their first 100 customers. We're passionate about empowering founders with the tools they need to bring their ideas to life and scale their businesses.
-
 🌟 **Notable Past Work**:
 - **Mahindra & Mahindra Internship**: Gained hands-on experience in vehicle systems integration, augmented reality (AR HUD), and advanced driver assistance systems (ADAS).
 - **Xfinitive Freelance Project**: Developed a cross-platform healthcare app with Flutter and Firebase, optimized for performance with a lightweight installation size and fast load times.
